@@ -1,0 +1,6 @@
+framework module Pods_SingleCart {
+  umbrella header "Pods-SingleCart-umbrella.h"
+
+  export *
+  module * { export * }
+}
